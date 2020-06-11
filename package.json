@@ -1,6 +1,6 @@
 {
   "name": "fix-inner-height",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Fix innerHeight and other issues in Safari on iOS.",
   "keywords": [
     "resize",
